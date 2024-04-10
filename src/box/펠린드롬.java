@@ -14,7 +14,7 @@ public static String solution(String str) {
 		
 		if(!sb.reverse().toString().equalsIgnoreCase(str)) result = "NO";
 			
-		return result;
+		return result;   
 	}
 	
 	public static void main(String[] args) {
